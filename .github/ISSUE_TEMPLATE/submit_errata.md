@@ -1,6 +1,6 @@
 ---
-name: bug_report.md
-about: Submit errata
+name: submit_errata.md
+about: 提交勘误
 title: 提交勘误
 labels: ''
 assignees: ''
