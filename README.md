@@ -1,6 +1,8 @@
 # 《经济动力学》勘误
 
-[![publish](https://github.com/tuliren/economy-dynamics-errata/actions/workflows/publish.yml/badge.svg)](https://tuliren.dev/economy-dynamics-errata/)
+![](https://img.shields.io/badge/%E7%8E%8B%E5%85%86%E5%8D%BF-%E8%91%97-blue)
+![](https://img.shields.io/badge/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E6%94%BF%E7%BB%8F%E6%B5%8E%E5%87%BA%E7%89%88%E7%A4%BE-2020--12-blue)
+![](https://img.shields.io/badge/ISBN-9787522301075-blue)
 
 本 repo 为《经济动力学》勘误表。欢迎大家提点击此[链接](https://github.com/tuliren/economy-dynamics-errata/issues/new?template=submit_errata.md&title=%E6%8F%90%E4%BA%A4%E5%8B%98%E8%AF%AF)交书中的问题。熟悉 GitHub PR 流程的读者，也可以直接 fork 此 repo 添加勘误，然后提交 PR。谢谢大家。
 
