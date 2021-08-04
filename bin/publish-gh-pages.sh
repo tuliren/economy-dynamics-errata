@@ -20,7 +20,7 @@ git clean -fx _book
 git add .
 
 # commit
-COMMIT_MESSAGE="Update gitbook `date '+%Y-%m-%d %H:%M:%S'`"
+COMMIT_MESSAGE="Update gitbook $(date '+%Y-%m-%d %H:%M:%S')"
 git commit -a -m "${COMMIT_MESSAGE}"
 
 # push to the origin
