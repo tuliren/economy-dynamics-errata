@@ -1,5 +1,9 @@
 # 《经济动力学》勘误
 
+[![publish](https://github.com/tuliren/economy-dynamics-errata/actions/workflows/publish.yml/badge.svg)](https://tuliren.dev/economy-dynamics-errata/)
+
+本 repo 为《经济动力学》勘误表。欢迎大家提点击此[链接](https://github.com/tuliren/economy-dynamics-errata/issues/new)交书中的问题。熟悉 GitHub PR 流程的读者，也可以直接 fork 此 repo 添加勘误，然后提交 PR。谢谢大家。
+
 ## 第三章
 - 第 57 页。表 3-1-1 中，“面包交易”一行，面粉厂应为 -100，面包厂应为 +104。
 - 第 78 页。第二段末句，“价值由供求关系决定”中，“价值”应该为“价格”。
