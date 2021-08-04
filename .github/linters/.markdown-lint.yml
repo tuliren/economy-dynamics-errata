@@ -1,10 +1,5 @@
 default: true
+
 line-length: false
-no-inline-html: false
-blanks-around-headers: false
-blanks-around-lists: false
 no-bare-urls: false
-no-trailing-punctuation: false
-no-emphasis-as-heading: false
-no-duplicate-heading: false
-no-alt-text: false
+no-empty-links: false
